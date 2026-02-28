@@ -3,11 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# 2026/02/24
+# 2026/02/28
 dataset/
 projects/*/*/models/
 projects/*/*/epoch_change_infer/
-generator/
+
 
 # C extensions
 *.so
